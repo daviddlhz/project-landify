@@ -1,4 +1,4 @@
-# :gear: Project Landify - Clon  :gear:
+# :gear: Project Landify :gear:
 
 ## Resources
 **Read or watch:**
